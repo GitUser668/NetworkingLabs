@@ -12,3 +12,4 @@ This repository contains a collection of basic configurations for Cisco routers 
 This repository is ideal for those starting in networking and looking to practice essential Cisco configurations, whether in physical labs or simulators like Packet Tracer.
 
 Links:
+- Basic LAN Lab Setup: [https://github.com/GitUser668/Basic-LAN-Lab-Setup]
