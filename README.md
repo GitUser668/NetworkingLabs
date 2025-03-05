@@ -13,3 +13,4 @@ This repository is ideal for those starting in networking and looking to practic
 
 Links:
 - Basic LAN Lab Setup: [https://github.com/GitUser668/Basic-LAN-Lab-Setup]
+- Basic IPV6 Configuration: [https://github.com/GitUser668/Basic-LAN-Lab-Setup] 
